@@ -1,0 +1,8 @@
+C:\Users\kovarikr\source\repos\dáma\dáma\bin\Debug\dáma.exe.config
+C:\Users\kovarikr\source\repos\dáma\dáma\bin\Debug\dáma.exe
+C:\Users\kovarikr\source\repos\dáma\dáma\bin\Debug\dáma.pdb
+C:\Users\kovarikr\source\repos\dáma\dáma\obj\Debug\dáma.csproj.AssemblyReference.cache
+C:\Users\kovarikr\source\repos\dáma\dáma\obj\Debug\dáma.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovarikr\source\repos\dáma\dáma\obj\Debug\dáma.csproj.CoreCompileInputs.cache
+C:\Users\kovarikr\source\repos\dáma\dáma\obj\Debug\dáma.exe
+C:\Users\kovarikr\source\repos\dáma\dáma\obj\Debug\dáma.pdb
